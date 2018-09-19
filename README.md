@@ -1,4 +1,13 @@
-# DHISAuth
+# DHIS2VueJsSeedApp
+
+## Description
+This is a simple seed app for Dhis2 SPAs using VueJS. It has a Basic Authentication Scalfolding and some DataValueSets manipulation
+
+## Tech Used
+Vue
+Vue Router
+Tailwind Css
+Bootstrap 4 Grid
 
 ## Project setup
 ```
